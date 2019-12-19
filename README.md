@@ -2,14 +2,14 @@
 ## [APP NAME]  
   
 Codé par :   
- - [prenom1] [nom1]   
- - [prenom2] [nom2]   
+ - [Kohongo] [KOUASSI]   
+ - [Nada] [SAADI]   
 
 ## Description  
   
-URL des données : [URL]  
+URL des données : [https://opendata.paris.fr/explore/dataset/commerces-semaest/table/?fbclid=IwAR193xKyC_GmIqr7elyk8-aLT5ZiwqMBiVW__ip9w0uf2wZD6j7zvbguh0k]  
   
-[A completer]  
+[Les données affichées sont celles des service de la SEMAEST,qui regroupent certains commerces de proximité et artisanat de la ville de Paris]  
   
 ## Librairies externes  
   
